@@ -9,7 +9,7 @@ Public dump of Higgsfield (`hf_`) PNG renders from November 2026.
 | `archive-56/` | `archive (56).zip` | 93 PNGs | 175 MB | Nov 14 (58), Nov 15 (22), Nov 16 (1), Nov 17 (12) |
 | `archive-2/` | second zip added the same day | 24 PNGs | 34 MB | Nov 17 (24) |
 
-**Total:** 157 PNG files, about 267 MB. Every image is at the folder root, named `hf_YYYYMMDD_HHMMSS_<uuid>.png`. No file is over 100 MB (largest is about 2.8 MB).
+**Total:** 167 PNG files, about 281 MB. Every image is at the folder root, named `hf_YYYYMMDD_HHMMSS_<uuid>.png`. No file is over 100 MB (largest is about 2.8 MB).
 
 These are still images only. There is no code, no `.env`, and no other file types in the original archives.
 
@@ -22,6 +22,10 @@ Folder: `armor/str-build-scotch-tape-cloth/`
 DEX build armor: cloth (8 images)
 
 Folder: `armor/dex-build-cloth/`
+
+DEX build armor: leather (10 images)
+
+Folder: `armor/dex-build-leather/`
 
 INT build armor: cloth (8 images)
 
