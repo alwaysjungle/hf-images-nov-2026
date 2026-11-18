@@ -55,3 +55,45 @@ An ice-shard field, a wood-and-amber resin waterfall, and terraced teal pools se
 ![terrain_09](terrain_09.jpg)
 
 A grave hill with crosses and a gold pour, ruined brick stairs with candles and ice-bound bones, and a desert hill with buried doors.
+
+## terrain_10
+
+![terrain_10](terrain_10.jpg)
+
+A brick ramp with terracotta pots and a copper molten chute, slate stairs hung with bells and flags, and a gear-and-coil staircase.
+
+## terrain_11
+
+![terrain_11](terrain_11.jpg)
+
+A timber slope with rail tracks and coal, a bone-rib arch over slate stairs, and pink salt terraces with rusty pipes and amber drips.
+
+## terrain_12
+
+![terrain_12](terrain_12.jpg)
+
+A blue slatted ramp with a gold disc, a rope suspension bridge with chains and bells, and brick stairs with teal slime and candles.
+
+## terrain_13
+
+![terrain_13](terrain_13.jpg)
+
+A white spiral stair in front of brass tubes, dark stairs with twin teal rails, and a staircase of stacked books.
+
+## terrain_14
+
+![terrain_14](terrain_14.jpg)
+
+White double stairs around a basin pouring blood, rusted iron fire-escape stairs, and a curved charred stair with warm window lights.
+
+## terrain_15
+
+![terrain_15](terrain_15.jpg)
+
+Floating slate steps up a dark shaft, pale spiral steps with green slime, and a wooden chute on a brick slope.
+
+## terrain_16
+
+![terrain_16](terrain_16.jpg)
+
+Charred timber stair scaffolding, a pale stone stair arch, and dark slabs over glowing cyan water.

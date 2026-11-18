@@ -121,3 +121,45 @@ A purple crystal cave wall, a driftwood and rope wall, and iron plates split by 
 ![walls_20](walls_20.jpg)
 
 A spiral bone colonnade, an ornate stone wall with blood and snow, and rusted pipes bound in chains.
+
+## walls_21
+
+![walls_21](walls_21.jpg)
+
+A wire-mesh cage packed with rubble, a dark scale wall with pipes dripping tar, and a terracotta niche wall holding bones.
+
+## walls_22
+
+![walls_22](walls_22.jpg)
+
+A curved timber wall with net and shells, dark brick with copper pipes and amber bubbles, and stacked log ends dripping amber.
+
+## walls_23
+
+![walls_23](walls_23.jpg)
+
+Sedimentary layers packed with bones, a terracotta shard wall bound in tar and twine, and black vertical posts with brass plates and lichen.
+
+## walls_24
+
+![walls_24](walls_24.jpg)
+
+A white block wall with rust drips and teal ties, riveted copper and iron plates dripping tar, and a wooden frame holding a tortoise shell.
+
+## walls_25
+
+![walls_25](walls_25.jpg)
+
+An apothecary cubby wall of bottles, a torn quilted padded wall, and a pipe-and-gauge switchboard wall.
+
+## walls_26
+
+![walls_26](walls_26.jpg)
+
+A stained-glass wall set with bone fingers, a rust-stained tile wall with meat hooks, and a wall of brass ear trumpets.
+
+## walls_27
+
+![walls_27](walls_27.jpg)
+
+A wooden dumbwaiter shaft with a hanging cage, a black folding screen painted with cranes, and a green-stone cistern wall with weeping basins.
