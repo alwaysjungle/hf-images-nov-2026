@@ -190,3 +190,7 @@ rock_formations_04-left  —  balancing glacial erratic on stone props, moss  (U
 rock_formations_04-mid  —  honeycomb tafoni cliff with moss  (S)
 rock_formations_04-right  —  venting geothermal geyser, amber flow and steam  (U)
 
+
+## Unrated (Nov 17 evening batch)
+
+These images were added and have not been style-rated yet: `terrain_17`, `paths_04`, `walls_28`, `rock_formations_05`, `props_01`, and `enemies_01` through `enemies_09`.

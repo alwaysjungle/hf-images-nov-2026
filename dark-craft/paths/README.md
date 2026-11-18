@@ -19,3 +19,9 @@ Gold-kintsugi cracked stone paving, wet cobblestones with a drain grate, and a w
 ![paths_03](paths_03.jpg)
 
 Broken paving over a buried skeleton, diamond-plate metal with blue tufts, and a skull-filled trench cut through stone paving.
+
+## paths_04
+
+![paths_04](paths_04.jpg)
+
+A cracked salt-crust brine tile with a teal crystal star, an acoustic bronze-bell floor, and a tar-seep ribcage mine tile.

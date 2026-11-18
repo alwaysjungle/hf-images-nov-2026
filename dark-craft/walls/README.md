@@ -163,3 +163,9 @@ A stained-glass wall set with bone fingers, a rust-stained tile wall with meat h
 ![walls_27](walls_27.jpg)
 
 A wooden dumbwaiter shaft with a hanging cage, a black folding screen painted with cranes, and a green-stone cistern wall with weeping basins.
+
+## walls_28
+
+![walls_28](walls_28.jpg)
+
+A circular keyhole monolith spit-gate, a flooded brick sewer-grate sluice with a green pool, and a timber counterbalanced guillotine door.

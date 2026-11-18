@@ -25,3 +25,9 @@ A spiraled karst pillar bound in roots, black basalt organ-columns with pale lic
 ![rock_formations_04](rock_formations_04.jpg)
 
 A balancing glacial erratic on stone props, a honeycomb tafoni cliff with moss, and a venting geothermal geyser with amber flow and steam.
+
+## rock_formations_05
+
+![rock_formations_05](rock_formations_05.jpg)
+
+A calcite grotto inlet packed with white crystals, a petrified tree-root cove with a dark hollow, and a layered sandstone arch.

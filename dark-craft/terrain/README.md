@@ -97,3 +97,9 @@ Floating slate steps up a dark shaft, pale spiral steps with green slime, and a 
 ![terrain_16](terrain_16.jpg)
 
 Charred timber stair scaffolding, a pale stone stair arch, and dark slabs over glowing cyan water.
+
+## terrain_17
+
+![terrain_17](terrain_17.jpg)
+
+A hollowed petrified-log span lined with shelf fungus, a stepped stone aqueduct viaduct, and a scissor-link pontoon-log bridge.
