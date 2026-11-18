@@ -38,3 +38,12 @@ Folder: `armor/leather-and-plate/`
 Hooded cloth and leather armor (8 images)
 
 Folder: `armor/hooded-cloth-leather/`
+
+## Dark Craft
+
+Style reference images for Dark Craft map materials, grouped by category:
+
+- [`dark-craft/terrain/`](dark-craft/terrain/)
+- [`dark-craft/paths/`](dark-craft/paths/)
+- [`dark-craft/walls/`](dark-craft/walls/)
+- [`dark-craft/foliage/`](dark-craft/foliage/)
