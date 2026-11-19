@@ -44,8 +44,8 @@ Folder: `armor/hooded-cloth-leather/`
 Style reference images for Dark Craft map materials, grouped by category:
 
 - [`dark-craft/terrain/`](dark-craft/terrain/) — 32 images
-- [`dark-craft/paths/`](dark-craft/paths/) — 8 images
-- [`dark-craft/walls/`](dark-craft/walls/) — 39 images
+- [`dark-craft/paths/`](dark-craft/paths/) — 19 images
+- [`dark-craft/walls/`](dark-craft/walls/) — 28 images
 - [`dark-craft/foliage/`](dark-craft/foliage/) — 12 images
 - [`dark-craft/rock_formations/`](dark-craft/rock_formations/) — 5 images
 - [`dark-craft/props/`](dark-craft/props/) — 2 images
