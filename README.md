@@ -43,12 +43,12 @@ Folder: `armor/hooded-cloth-leather/`
 
 Style reference images for Dark Craft map materials, grouped by category:
 
-- [`dark-craft/terrain/`](dark-craft/terrain/) — 28 images
-- [`dark-craft/paths/`](dark-craft/paths/) — 4 images
-- [`dark-craft/walls/`](dark-craft/walls/) — 28 images
-- [`dark-craft/foliage/`](dark-craft/foliage/) — 10 images
+- [`dark-craft/terrain/`](dark-craft/terrain/) — 32 images
+- [`dark-craft/paths/`](dark-craft/paths/) — 8 images
+- [`dark-craft/walls/`](dark-craft/walls/) — 39 images
+- [`dark-craft/foliage/`](dark-craft/foliage/) — 12 images
 - [`dark-craft/rock_formations/`](dark-craft/rock_formations/) — 5 images
-- [`dark-craft/props/`](dark-craft/props/) — 1 image
+- [`dark-craft/props/`](dark-craft/props/) — 2 images
 - [`dark-craft/enemies/`](dark-craft/enemies/) — 9 images
 - [`dark-craft/specimens/`](dark-craft/specimens/) — 4 images
 - [`dark-craft/architecture/`](dark-craft/architecture/) — 28 images, sorted by structure type
@@ -58,3 +58,5 @@ The Nov 18 architecture, specimen, and extra terrain pieces were copied from Dow
 ## Yarn world
 
 Cinematic yarn, felt, and Sackboy-style landscapes from the Nov 18 `archive (56).zip` (6 PNGs). These are a different art style from the Dark Craft tabletop dioramas, so they live in [`yarn-world/`](yarn-world/) rather than under `dark-craft/`.
+
+See also [`dark-craft/SOURCE_MAP_2026-11-18_archive57.md`](dark-craft/SOURCE_MAP_2026-11-18_archive57.md) for the evening `archive (57).zip` batch.

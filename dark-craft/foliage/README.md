@@ -61,3 +61,20 @@ A weeping blood-red willow, a grey crown-fern from a twine bulb, and hanging sip
 ![foliage_10](foliage_10.jpg)
 
 A dark pitcher-cap bramble with hanging bells, a scale-shield brier with white bead tips, and a weeping ink-gall cypress with black berries.
+
+## foliage_11
+
+![foliage_11](foliage_11.png)
+
+Three ground-cover tiles: dense moss and grass, dry straw, and moss cut by a dirt path.
+
+Source (copied, not moved): `hf_20261119_010604_7d664ca0-f3c5-48b2-9586-fc8acb83fb71.png`
+
+## foliage_12
+
+![foliage_12](foliage_12.png)
+
+Three grass tiles: fine turf, mossy ground with twigs, and a stand of dry tall grass.
+
+Source (copied, not moved): `hf_20261119_010605_cc440022-8b11-4d5f-9e67-1ab71dbb3ef8.png`
+

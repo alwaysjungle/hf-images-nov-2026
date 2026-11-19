@@ -192,3 +192,35 @@ Three bioluminescent terrain cubes in blue, teal, and rust-red mushroom and crys
 
 Source (left in Downloads, not moved): `upsampled_img_8815711384109362121.jpg`
 
+## terrain_29
+
+![terrain_29](terrain_29.png)
+
+Three terrain cubes: a shelf-fungus mound, a dark rusted rock pile, and a teal fungal growth.
+
+Source (copied, not moved): `hf_20261119_010215_3bdd398c-b86b-474f-89ff-d7443da1a27f.png`
+
+## terrain_30
+
+![terrain_30](terrain_30.png)
+
+A coral and mushroom slope, a wooden ladder stair, and a stick-and-twine rope bridge.
+
+Source (copied, not moved): `hf_20261119_010215_4f3b9336-4009-409b-8266-3c9b69ccac7b.png`
+
+## terrain_31
+
+![terrain_31](terrain_31.png)
+
+A leaf-litter ground tile, a pale stone stair, and a mossy paved slope.
+
+Source (copied, not moved): `hf_20261119_010428_a306f750-1c62-46d1-b345-bc3acc9a1a80.png`
+
+## terrain_32
+
+![terrain_32](terrain_32.jpg)
+
+Three lava and ember rock cubes: glowing rust-red cracks, ashen slag, and dark stone with molten veins.
+
+Source (copied, not moved): `upsampled_img_13203624693471990326.jpg`
+
